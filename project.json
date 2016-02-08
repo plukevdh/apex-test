@@ -1,0 +1,8 @@
+{
+  "name": "EndsWithing",
+  "description": "A thing to test Apex by",
+  "runtime": "nodejs",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::689543204258:role/lambda_basic_execution"
+}

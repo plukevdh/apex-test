@@ -1,0 +1,7 @@
+{
+  "name": "Polyflil",
+  "hooks": {
+    "build": "../../node_modules/.bin/babel --out-file index.js ./src/index.js",
+    "clean": "rm index.js"
+  }
+}
